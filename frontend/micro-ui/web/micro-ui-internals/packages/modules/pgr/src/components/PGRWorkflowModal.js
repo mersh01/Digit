@@ -11,7 +11,7 @@ const CloseBtn = (props) => {
       {props?.isMobileView ? (
         <CloseSvg />
       ) : (
-        <div className={"icon-bg-secondary"} style={{ backgroundColor: "#FFFFFF" }}>
+        <div className={"icon-bg-secondary"} style={{ backgroundColor: "#BBBBBB" }}>
           <Close />
         </div>
       )}
