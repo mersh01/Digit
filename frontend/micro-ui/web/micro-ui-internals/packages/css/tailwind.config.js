@@ -29,7 +29,7 @@ module.exports = {
       "input-border": "#464646",
       focus: "#F47738",
       error: "#D4351C",
-      success: "#00703C",
+      success: "#701100ff",
       black: "#000000",
       grey: {
         dark: "#9E9E9E",
@@ -112,7 +112,7 @@ module.exports = {
         paper: "#FFFFFF",
         "paper-secondary": "#FAFAFA",
         divider: "#D6D5D4",
-        "header-sidenav": "#0B4B66",
+        "header-sidenav": "#ae2974ff",
         "input-border": "#505A5F",
         "primary-bg": "#FEEFE7",
         "text-primary": "#363636",
